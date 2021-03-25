@@ -1,4 +1,4 @@
-# Neo4 Social Network
+# Neo4 Flask Blog
 A microblog application written in Python powered by Flask and Neo4j. 
 ## Usage
 Make sure [Neo4j] is running first! (http://neo4j.com/download/other-releases/)
